@@ -1,108 +1,95 @@
-### 
- 
-
-### Hey, [Ab Nahid Agency here!](https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
-
-🚀 **Web Developer | MERN Stack | React Enthusiast**  
-
-<p>I’m Ab Nahid, a passionate React & MERN Stack Developer who loves building modern, user-friendly web applications. I love crafting clean, scalable web applications and bringing ideas to life with code.
- I am a passionate Frontend & MERN-Stack Developer who loves creating sleek, scalable web applications.  
-Currently, I'm exploring Next.js and AI-powered UI innovations to enhance user experiences.   
+<!-- Cover Image -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abjabbaragrncy/abjabbaragrncy/main/assets/cover-ab-nahid-agency.png" alt="Ab Nahid Agency Banner" />
 </p>
 
+<h1 align="center">Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" height="30"> I'm Ab Nahid</h1>
 
-### 📬 Find me at
+<p align="center">
+  🚀 MERN Stack Developer | Frontend Specialist | Next.js & TypeScript Enthusiast
+</p>
 
-###
+---
+
+## 💼 About Me
+
+I'm **Ab Nahid**, the face behind [Ab Nahid Agency](https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA). I specialize in building fast, modern, and scalable web applications using the **MERN Stack** and tools like **Next.js**, **Tailwind CSS**, and **TypeScript**.
+
+I'm currently diving deeper into **AI-powered UI design**, performance optimization, and component libraries like **ShadCN**.
+
+---
+
+## 🔍 What I’m Doing
+
+- 🔧 Developing with **React**, **Next.js**, **Tailwind CSS**
+- 🎨 Designing with **Figma**, **ShadCN**, **Magic UI**
+- 🧠 Learning **Advanced Animations**, **AI-enhanced User Experience**
+- 🌐 Deploying modern full-stack apps with **Node.js**, **MongoDB**, **Express**
+
+---
+
+## 🔗 Find Me Around The Web
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <a href="http" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D1487&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <a href="https://www.linkedin.com/in/yourlinkedin" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" height="35" />
   </a>
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  <a href="mailto:youremail@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+  </a>
+  <a href="https://twitter.com/yourhandle" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+  </a>
 </div>
 
+---
 
+## 🛠️ Tech Stack
 
+### 🖥 Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,html,css" height="40" />
+</p>
 
-## 👩‍💻 About Me  
+### ⚙ Backend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" height="40" />
+</p>
 
-###
+### 🧰 Dev Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel" height="40" />
+</p>
 
-<p align="left">✨ Creating bugs since ...2024<br>📚 I'm currently learning ...Next js<br>🎯 Goals: ...Be a Efficient Web Developer<br>🎲 Fun fact: ...Always Seeking Trouble</p>
+---
 
+## 📈 GitHub Stats
 
-
-
-## 📌 What I'm Up To  
-- 🚀 Building modern web apps with **React, Next.js, and Tailwind CSS**  
-- 🎨 Designing sleek UIs using **ShadCN & Magic UI**  
-- 🧠 Learning **Advanced Animations & AI-driven UI**  
-
-<h2 align="left">🚀 Skills</h2>
-
-
-###
- <img  align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="380">
-
-
-###
-### 🖥 Frontend  
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-</div>
-
-
-
-
-###
-### ⚙️ Backend  
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
-</div>
-
-
- 
-###
-### 🛠 Dev Tools  
-<div align="left">
-  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-</div>
-
- 
-
-## 📊 GitHub Stats  
-
-| <a href="https://github.com/abjabbaragrncy"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=abjabbaragrncy&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" alt="Sonia's GitHub stats" /></a> | <a href="https://github.com/abjabbaragrncy"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abjabbaragrncy&layout=compact&theme=transparent&hide_border=true" /></a> |
+| <a href="https://github.com/abjabbaragrncy"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=abjabbaragrncy&show_icons=true&theme=transparent&hide_border=true" /></a> | <a href="https://github.com/abjabbaragrncy"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abjabbaragrncy&layout=compact&theme=transparent&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-| <a href="https://git.io/streak-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=SoniaBinty&theme=buefy&hide_border=true" alt="Sonia Binty's GitHub Streak" /></a> |
-| ------------- |
+<p align="center">
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=abjabbaragrncy&theme=radical&hide_border=true" /></a>
+</p>
 
+---
 
+## 🎯 Goals
 
+- Contribute to open source MERN projects
+- Build reusable UI libraries
+- Master TypeScript and advanced React patterns
+- Explore Serverless & Edge functions
 
+---
 
+## 🎲 Fun Fact
 
+> "I don't just fix bugs—I create them first for balance."
 
+---
 
+### 🔑 Keywords (for SEO)
 
- 
- 
+`Ab Nahid`, `MERN Stack Developer`, `Next.js Developer`, `React.js Portfolio`, `Frontend Developer`, `JavaScript`, `Tailwind CSS`, `Node.js`, `MongoDB`, `Fullstack Developer Bangladesh`, `GitHub Readme`, `AI UI Developer`, `TypeScript Dev`
+
